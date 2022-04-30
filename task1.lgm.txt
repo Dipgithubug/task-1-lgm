@@ -1,0 +1,100 @@
+<!DOCTYPE html​> 
+ ​<​html​> 
+ ​  ​<​head​> 
+ ​     ​<​title​>​task1​</​title​> 
+ ​     ​<​style​ ​type​="​text/css​"​> 
+ ​             .​back-img​{ 
+ ​                     ​background-image​:​ ​linear-gradient​(​rgba​(​0​,​0​,​0​,​0.5​)​,​rgba​(​0​,​0​,​0​,​0.5​))​,​ ​url​(images/photo.jpg); 
+ ​                     ​width​:​ ​99​%​; 
+ ​                     ​height​:​ ​680​px​; 
+ ​                     ​background-size​:​ cover; 
+ ​                     ​position​:​ absolute; 
+ ​             } 
+ ​             .​text​{ 
+ ​                     ​text-align​:​ left; 
+ ​                     ​color​:​ white; 
+ ​                     ​font-size​:​ ​25​px​; 
+ ​                     ​font-weight​:​ bold; 
+ ​                     ​padding​:​ ​160​px​; 
+ ​             } 
+ ​             ​ul​{ 
+ ​                     ​float​:​ right; 
+ ​                     ​list-style-type​:​ none; 
+ ​                     ​margin-top​:​25​px​; 
+ ​                     ​padding​:​ ​50​px​; 
+ ​             } 
+ ​             ​ul​ ​li​{ 
+ ​                     ​display​:​ inline-block; 
+  
+ ​             } 
+ ​             ​ul​ ​li​ ​a​{ 
+ ​                     ​text-decoration​:​ none; 
+ ​                     ​color​:​ ​#​fff​; 
+ ​                     ​padding​:​ ​5​px​ ​20​px​; 
+ ​                     ​border​:​1​px​ solid transparent; 
+ ​                     ​transition​:​ ​0.6​s​ ease; 
+ ​             } 
+ ​             ​ul​ ​li​ ​a​:​hover​{ 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​                     ​color​:​ ​#​000​; 
+ ​             } 
+ ​             ​ul​ ​li​.​active​ ​a​{ 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​                     ​color​:​ ​#​000​;​- 
+ ​             } 
+ ​             .​hero-btn​{ 
+ ​                     ​display​:​ inline-block; 
+ ​                     ​text-decoration​:​ none; 
+ ​                     ​color​:​ ​#​fff​; 
+ ​                     ​border​:​ ​1​px​ solid ​#​fff​; 
+ ​                     ​padding​:​ ​12​px​ ​34​px​; 
+ ​                     ​font-size​:​ ​13​px​; 
+ ​                     ​background​:​ transparent; 
+ ​                     ​position​:​ relative; 
+ ​                     ​cursor​:​ pointer; 
+ ​             } 
+ ​             .​hero-btn​:​hover​{ 
+ ​                     ​border​:​1​px​ solid transparent; 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​                     ​color​:​ ​#​000​; 
+ ​                     ​transition​:​ ​0.6​s​ ease; 
+ ​             } 
+ ​             .​course​{ 
+ ​                     ​width​:​ ​80​%​; 
+ ​                     ​margin​:​  ​20​px​ auto; 
+ ​                     ​text-align​:​ center; 
+ ​                     ​padding-top​:​ ​100​px​; 
+ ​             } 
+ ​             ​h1​{ 
+ ​                     ​font-size​:​ ​36​px​; 
+ ​                     ​font-weight​:​ ​600​; 
+ ​             } 
+ ​             ​p​{ 
+ ​                     ​color​:​ ​#​777​; 
+ ​                     ​font-size​:​ ​14​px​; 
+ ​                     ​font-weight​:​ ​300​; 
+ ​                     ​line-height​:​ ​22​px​; 
+ ​                     ​text-align​:​ left ​50​px​; 
+ ​             } 
+ ​             .​first​{ 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​                     ​width​:​ ​25​%​; 
+ ​                     ​float​:​ left; 
+ ​        ​padding-left​:​ ​160​px​; 
+ ​             } 
+ ​      .​first​ ​p​{ 
+ ​        ​padding-left​:​ ​20​%​; 
+ ​      } 
+ ​             .​second​{ 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​        ​margin-bottom​:​ ​30​px​; 
+ ​        ​padding-right​:​ ​40​px​; 
+ ​             } 
+ ​      .​second​ ​img​{ 
+ ​        ​width​:​ ​10​%​; 
+ ​      } 
+ ​             .​left​{ 
+ ​                     ​background-color​:​ ​#​fff​; 
+ ​                     ​width​:​ ​25​%​; 
+ ​                     ​float​:​ left; 
+ ​                     ​padding-left​:​ ​120​p…
